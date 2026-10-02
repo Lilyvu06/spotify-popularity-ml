@@ -85,10 +85,15 @@ These findings should be interpreted as predictive associations within the analy
 
 ## My Contribution
 
-This was a **four-person group project**. The original project report records separate contributions across data cleaning and preprocessing, EDA, PCA, feature engineering, model selection and training, SHAP analysis, result interpretation, and report writing.
+This was a group project completed for the Applied Machine Learning course at the University of Edinburgh.
 
-To avoid overstating individual ownership, this public portfolio does not attribute specific components to me beyond what can be verified from the original contribution statement. I can provide a precise personal-contribution summary once my student ID is mapped to that statement.
+My contributions focused on the machine learning pipeline, including:
 
+- Data cleaning and preprocessing
+- Feature engineering for audio and artist-related variables
+- Model selection and experimental design
+- Implementation and training of classification models
+- Analysis and documentation of the learning methods
 ## Repository Scope
 
 This repository is intentionally a **portfolio reconstruction**, not a public release of the original assessed submission.
